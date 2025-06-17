@@ -1,1 +1,4 @@
 # Hacia-un-nuevo-pacto-de-confianza
+Las zero-knowledge proofs marcan una disrupción silenciosa en el mundo financiero. Este mecanismo, capaz de validar sin exponer, responde a una necesidad creciente de confidencialidad, impulsada por el auge de la digitalización y la presión regulatoria.
+A través de la lógica ZKP, instituciones y plataformas descentralizadas logran construir productos que priorizan la privacidad sin romper las reglas. Esto permite avanzar en ámbitos sensibles como la banca privada, el comercio de activos tokenizados y los fondos con gobernanza distribuida.
+En un futuro cercano, las pruebas de conocimiento cero dejarán de ser una rareza criptográfica para convertirse en estándar operativo en mercados que buscan preservar identidad, riqueza y estrategia. No es ocultamiento, es soberanía de datos.
